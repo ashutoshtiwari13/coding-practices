@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0006.
  *
- * @see <a href="ZigZagConversion"> https://leetcode.com/problems/zigzag-conversion/description/
- *      </a>
+ * @see <a href="ZigZagConversion"> https://leetcode.com/problems/zigzag-conversion </a>
  * @author Yifan Gu
  */
 

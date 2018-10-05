@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0027.
  *
- * @see <a href="RemoveElement"> https://leetcode.com/problems/remove-element/description/ </a>
+ * @see <a href="RemoveElement"> https://leetcode.com/problems/remove-element </a>
  * @author Yifan Gu
  */
 

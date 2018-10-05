@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0014.
  *
- * @see <a href="LongestCommonPrefix">
- *      https://leetcode.com/problems/longest-common-prefix/description/ </a>
+ * @see <a href="LongestCommonPrefix"> https://leetcode.com/problems/longest-common-prefix </a>
  * @author Yifan Gu
  */
 

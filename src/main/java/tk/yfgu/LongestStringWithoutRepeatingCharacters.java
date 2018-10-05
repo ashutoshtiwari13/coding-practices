@@ -4,8 +4,7 @@ package tk.yfgu;
  * LeetCode Solution No.0003.
  *
  * @see <a href="LongestStringWithoutRepeatingCharacters">
- *      https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
- *      </a>
+ *      https://leetcode.com/problems/longest-substring-without-repeating-characters </a>
  * @author Yifan Gu
  */
 

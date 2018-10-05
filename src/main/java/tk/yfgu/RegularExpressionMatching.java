@@ -4,7 +4,7 @@ package tk.yfgu;
  * LeetCode Solution No.0010.
  *
  * @see <a href="RegularExpressionMatching">
- *      https://leetcode.com/problems/regular-expression-matching/description/ </a>
+ *      https://leetcode.com/problems/regular-expression-matching </a>
  * @author Yifan Gu
  */
 

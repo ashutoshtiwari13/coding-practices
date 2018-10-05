@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0012.
  *
- * @see <a href="IntegerToRoman"> https://leetcode.com/problems/integer-to-roman/description/ </a>
+ * @see <a href="IntegerToRoman"> https://leetcode.com/problems/integer-to-roman </a>
  * @author Yifan Gu
  */
 

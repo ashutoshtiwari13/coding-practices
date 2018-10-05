@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0023.
  *
- * @see <a href="MergeKSortedList"> https://leetcode.com/problems/merge-k-sorted-lists/description/
- *      </a>
+ * @see <a href="MergeKSortedList"> https://leetcode.com/problems/merge-k-sorted-lists </a>
  * @author Yifan Gu
  */
 

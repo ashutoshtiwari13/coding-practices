@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0002.
  *
- * @see <a href="AddTwoNumbers"> https://leetcode.com/problems/add-two-numbers/description/ </a>
+ * @see <a href="AddTwoNumbers"> https://leetcode.com/problems/add-two-numbers </a>
  * @author Yifan Gu
  */
 

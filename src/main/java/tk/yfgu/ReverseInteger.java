@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0007.
  *
- * @see <a href="ReverseInteger"> https://leetcode.com/problems/reverse-integer/description/ </a>
+ * @see <a href="ReverseInteger"> https://leetcode.com/problems/reverse-integer </a>
  * @author Yifan Gu
  */
 

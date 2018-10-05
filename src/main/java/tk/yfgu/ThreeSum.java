@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0015.
  *
- * @see <a href="ThreeSum"> https://leetcode.com/problems/3sum/description/ </a>
+ * @see <a href="ThreeSum"> https://leetcode.com/problems/3sum </a>
  * @author Yifan Gu
  */
 

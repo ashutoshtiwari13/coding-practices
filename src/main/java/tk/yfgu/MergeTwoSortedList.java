@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0021.
  *
- * @see <a href="MergeTwoSortedList">
- *      https://leetcode.com/problems/merge-two-sorted-lists/description/ </a>
+ * @see <a href="MergeTwoSortedList"> https://leetcode.com/problems/merge-two-sorted-lists </a>
  * @author Yifan Gu
  */
 

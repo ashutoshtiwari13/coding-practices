@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0016.
  *
- * @see <a href="ThreeSumClosest"> https://leetcode.com/problems/3sum-closest/description/ </a>
+ * @see <a href="ThreeSumClosest"> https://leetcode.com/problems/3sum-closest </a>
  * @author Yifan Gu
  */
 

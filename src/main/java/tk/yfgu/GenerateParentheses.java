@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0022.
  *
- * @see <a href="GenerateParentheses">
- *      https://leetcode.com/problems/generate-parentheses/description/ </a>
+ * @see <a href="GenerateParentheses"> https://leetcode.com/problems/generate-parentheses </a>
  * @author Yifan Gu
  */
 

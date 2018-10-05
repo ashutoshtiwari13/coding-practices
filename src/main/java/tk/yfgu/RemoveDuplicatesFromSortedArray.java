@@ -4,7 +4,7 @@ package tk.yfgu;
  * LeetCode Solution No.0026.
  *
  * @see <a href="RemoveDuplicatesFromSortedArray">
- *      https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ </a>
+ *      https://leetcode.com/problems/remove-duplicates-from-sorted-array </a>
  * @author Yifan Gu
  */
 

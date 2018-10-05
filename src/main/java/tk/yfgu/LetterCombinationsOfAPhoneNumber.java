@@ -4,7 +4,7 @@ package tk.yfgu;
  * LeetCode Solution No.0017.
  *
  * @see <a href="LetterCombinationsOfAPhoneNumber">
- *      https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ </a>
+ *      https://leetcode.com/problems/letter-combinations-of-a-phone-number </a>
  * @author Yifan Gu
  */
 

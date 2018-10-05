@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0024.
  *
- * @see <a href="SwapNodesInPairs"> https://leetcode.com/problems/swap-nodes-in-pairs/description/
- *      </a>
+ * @see <a href="SwapNodesInPairs"> https://leetcode.com/problems/swap-nodes-in-pairs </a>
  * @author Yifan Gu
  */
 

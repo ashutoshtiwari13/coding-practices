@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0018.
  *
- * @see <a href="FourSum"> https://leetcode.com/problems/4sum/description/ </a>
+ * @see <a href="FourSum"> https://leetcode.com/problems/4sum </a>
  * @author Yifan Gu
  */
 

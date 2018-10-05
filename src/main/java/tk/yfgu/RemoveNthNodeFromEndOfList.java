@@ -4,7 +4,7 @@ package tk.yfgu;
  * LeetCode Solution No.0019.
  *
  * @see <a href="RemoveNthNodeFromEndOfList">
- *      https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/ </a>
+ *      https://leetcode.com/problems/remove-nth-node-from-end-of-list </a>
  * @author Yifan Gu
  */
 

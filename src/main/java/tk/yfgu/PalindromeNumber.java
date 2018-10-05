@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0009.
  *
- * @see <a href="PalindromeNumber"> https://leetcode.com/problems/palindrome-number/description/
- *      </a>
+ * @see <a href="PalindromeNumber"> https://leetcode.com/problems/palindrome-number </a>
  * @author Yifan Gu
  */
 

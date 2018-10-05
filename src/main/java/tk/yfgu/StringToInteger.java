@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0008.
  *
- * @see <a href="StringToInteger"> https://leetcode.com/problems/string-to-integer-atoi/description/
- *      </a>
+ * @see <a href="StringToInteger"> https://leetcode.com/problems/string-to-integer-atoi </a>
  * @author Yifan Gu
  */
 

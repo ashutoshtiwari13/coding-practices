@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0025.
  *
- * @see <a href="ReverseNodesInKGroups">
- *      https://leetcode.com/problems/reverse-nodes-in-k-group/description/ </a>
+ * @see <a href="ReverseNodesInKGroups"> https://leetcode.com/problems/reverse-nodes-in-k-group </a>
  * @author Yifan Gu
  */
 

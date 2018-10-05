@@ -3,8 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0029.
  *
- * @see <a href="DivideTwoIntegers"> https://leetcode.com/problems/divide-two-integers/description/
- *      </a>
+ * @see <a href="DivideTwoIntegers"> https://leetcode.com/problems/divide-two-integers </a>
  * @author Yifan Gu
  */
 

@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0001.
  *
- * @see <a href="TwoSum"> https://leetcode.com/problems/two-sum/description/ </a>
+ * @see <a href="TwoSum"> https://leetcode.com/problems/two-sum </a>
  * @author Yifan Gu
  */
 

@@ -3,8 +3,8 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0004.
  *
- * @see <a href="MedianOfTwoSortedArrays">
- *      https://leetcode.com/problems/median-of-two-sorted-arrays/description/ </a>
+ * @see <a href="MedianOfTwoSortedArrays"> https://leetcode.com/problems/median-of-two-sorted-arrays
+ *      </a>
  * @author Yifan Gu
  */
 

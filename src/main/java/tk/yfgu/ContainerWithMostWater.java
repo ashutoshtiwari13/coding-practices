@@ -3,8 +3,8 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0011.
  *
- * @see <a href="ContainerWithMostWater">
- *      https://leetcode.com/problems/container-with-most-water/description/ </a>
+ * @see <a href="ContainerWithMostWater"> https://leetcode.com/problems/container-with-most-water
+ *      </a>
  * @author Yifan Gu
  */
 

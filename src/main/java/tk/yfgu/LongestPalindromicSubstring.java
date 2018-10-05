@@ -4,7 +4,7 @@ package tk.yfgu;
  * LeetCode Solution No.0005.
  *
  * @see <a href="LongestPalindromicSubstring">
- *      https://leetcode.com/problems/longest-palindromic-substring/description/ </a>
+ *      https://leetcode.com/problems/longest-palindromic-substring </a>
  * @author Yifan Gu
  */
 

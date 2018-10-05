@@ -3,7 +3,7 @@ package tk.yfgu;
 /**
  * LeetCode Solution No.0028.
  *
- * @see <a href="ImplementStrStr"> https://leetcode.com/problems/implement-strstr/description/ </a>
+ * @see <a href="ImplementStrStr"> https://leetcode.com/problems/implement-strstr </a>
  * @author Yifan Gu
  */
 
