@@ -28,7 +28,7 @@ public class SearchInRotatedSortedArrayII {
       } else if (nums[mid] < nums[high]) {
         if (nums[mid] < target && nums[high] >= target) {
           low = mid + 1;
-        } else {`
+        } else {
           high = mid;
         }
       } else {
