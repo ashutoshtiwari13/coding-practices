@@ -4,20 +4,20 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>yfgu0618</groupId>
-	<artifactId>leetcode</artifactId>
+	<artifactId>coding-practices</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<description>leetcode Solutions</description>
+	<description>Coding Practices</description>
 	<packaging>jar</packaging>
-	<name>leetcode</name>
-	<url>https://github.com/YFGu0618/leetcode.git</url>
+	<name>coding-practices</name>
+	<url>https://github.com/YFGu0618/coding-practices.git</url>
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/YFGu0618/leetcode/issues</url>
+		<url>https://github.com/YFGu0618/coding-practices/issues</url>
 	</issueManagement>
 	<scm>
-		<connection>scm:git:https://github.com/YFGu0618/leetcode.git</connection>
-		<developerConnection>scm:git:https://github.com/YFGu0618/leetcode.git</developerConnection>
-		<url>https://github.com/YFGu0618/leetcode.git</url>
+		<connection>scm:git:https://github.com/YFGu0618/coding-practices.git</connection>
+		<developerConnection>scm:git:https://github.com/YFGu0618/coding-practices.git</developerConnection>
+		<url>https://github.com/YFGu0618/coding-practices.git</url>
 	</scm>
 	<licenses>
 		<license>
@@ -160,7 +160,7 @@
 					<properties>
 						<excludeTags>slow</excludeTags>
 						<includeTags>fast</includeTags>
-						<configurationParameters>						junit.jupiter.conditions.deactivate = *						junit.jupiter.extensions.autodetection.enabled = true						junit.jupiter.testinstance.lifecycle.default = per_class						</configurationParameters>
+						<configurationParameters>							junit.jupiter.conditions.deactivate = *							junit.jupiter.extensions.autodetection.enabled = true							junit.jupiter.testinstance.lifecycle.default = per_class						</configurationParameters>
 					</properties>
 				</configuration>
 			</plugin>
