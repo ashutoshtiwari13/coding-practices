@@ -1,6 +1,12 @@
 package tencent;
 
-import java.util.*;
+/**
+ * Tencent OA 2018-2019: Binary Substring
+ *
+ * @author Yifan Gu
+ */
+
+import java.util.Scanner;
 
 public class BinarySubstring { // 90% OOT
 

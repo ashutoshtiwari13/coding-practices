@@ -38,6 +38,8 @@ public class RoverControl {
             col++;
           }
           break;
+        default:
+          break;
       }
     }
     return (row * n) + col;

@@ -9,7 +9,7 @@ package twitter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class ASCIIEncodedString {
+public class AsciiEncodedString {
 
   private static final Scanner scanner = new Scanner(System.in);
 

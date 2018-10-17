@@ -7,8 +7,8 @@ package leetcode;
  * @author Yifan Gu
  */
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Permutations {
   public static List<List<Integer>> permute(int[] nums) {

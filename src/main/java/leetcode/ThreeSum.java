@@ -7,9 +7,9 @@ package leetcode;
  * @author Yifan Gu
  */
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.ArrayList;
 
 public class ThreeSum {
   public static List<List<Integer>> threeSum(int[] nums) {
