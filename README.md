@@ -1,3 +1,3 @@
-# LeetCode
+# Coding Practices
 
-LeetCode Solutions.
+Coding practices from LeetCode, HackerRank, OA of companies, etc.
