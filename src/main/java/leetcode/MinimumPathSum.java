@@ -8,7 +8,7 @@ package leetcode;
  */
 
 public class MinimumPathSum {
-  public int minPathSum(int[][] grid) {
+  public static int minPathSum(int[][] grid) {
     int h = grid.length;
     int w = grid[0].length;
     int[][] dp = new int[h][w];
