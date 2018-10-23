@@ -1,13 +1,15 @@
 package leetcode;
 
+import java.util.Arrays;
+
 /**
  * LeetCode Solution No.0198.
  *
- * @see <a href="HouseRobber"> https://leetcode.com/problems/house-robber </a>
+ * @see <a href="HouseRobberII"> https://leetcode.com/problems/house-robber-ii </a>
  * @author Yifan Gu
  */
 
-public class HouseRobber {
+public class HouseRobberII {
   public static int rob(int[] nums) {
     if (nums == null || nums.length == 0) {
       return 0;
@@ -16,6 +18,11 @@ public class HouseRobber {
     } else if (nums.length == 2) {
       return Math.max(nums[0], nums[1]);
     }
+    return Math.max(robbed(Arrays.copyOfRange(nums, 0, nums.length - 1)),
+        robbed(Arrays.copyOfRange(nums, 1, nums.length)));
+  }
+
+  public static int robbed(int[] nums) {
     int[] dp = new int[nums.length + 1];
     dp[0] = 0;
     dp[1] = nums[0];
