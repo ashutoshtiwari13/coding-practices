@@ -4,7 +4,7 @@ package leetcode;
  * LeetCode Solution No.0121.
  *
  * @see <a href="BestTimeToBuyAndSellStock">
- *      https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ </a>
+ *      https://leetcode.com/problems/best-time-to-buy-and-sell-stock </a>
  * @author Yifan Gu
  */
 
