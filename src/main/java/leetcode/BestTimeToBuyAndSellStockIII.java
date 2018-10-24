@@ -14,14 +14,15 @@ public class BestTimeToBuyAndSellStockIII {
       return 0;
     }
     int total = 2;
-    int[][] dp = new int[total + 1][prices.length];
+    int[] dp = new int[prices.length];
     int max = Integer.MIN_VALUE;
     for (int i = 1; i <= total; i++) {
-      int balance = dp[i - 1][0] - prices[0];
+      int balance = dp[0] - prices[0];
       for (int j = 1; j < prices.length; j++) {
-        dp[i][j] = Math.max(dp[i][j - 1], balance + prices[j]);
-        max = Math.max(max, dp[i][j]);
-        balance = Math.max(balance, dp[i - 1][j] - prices[j]);
+        int prev = dp[j];
+        dp[j] = Math.max(dp[j - 1], balance + prices[j]);
+        max = Math.max(max, dp[j]);
+        balance = Math.max(balance, prev - prices[j]);
       }
     }
     return max;
